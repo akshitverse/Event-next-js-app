@@ -1,3 +1,4 @@
+
 # Minimal RSVP App (Next.js + Supabase)
 
 A simple **RSVP (Répondez s'il vous plaît) application** built with **Next.js** and **Supabase**, allowing users to create events, RSVP to events, and manage their account.
@@ -82,3 +83,4 @@ It is designed as a simple MVP while demonstrating **referential integrity** and
 ```bash
 git clone <repo-url>
 cd rsvp-app
+
